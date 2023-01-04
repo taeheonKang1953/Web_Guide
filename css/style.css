@@ -1,0 +1,7 @@
+* {margin: 0; padding: 0;}
+ul {list-style: none;}
+a {text-decoration: none; color: black;}
+
+body {background-color: #eee;}
+#inner {width: 842px; margin: 15px auto; text-align: center; box-sizing: border-box;}
+#inner img {display: block; margin-bottom: 15px; text-align: center;}
